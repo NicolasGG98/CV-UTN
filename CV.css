@@ -1,0 +1,45 @@
+body {
+    color: white;
+    background-image: url("FondoAzul.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #00000060;
+    width: 100%;
+    height: 20%;
+}
+
+.nombre {
+   margin-left: 2%; 
+}
+
+.minombre {
+    margin-left: 4%; 
+}
+
+img {
+    width: 15%;
+    height: 15%;
+    margin-left: 4%;
+    margin-bottom: 2%;    
+}
+
+main {
+    background-color: #00000060;
+}
+
+section {
+    background-color: #00000060;
+}
+
+footer {
+    background-color: #00000060;
+}
+
+.linkedin {
+    background-color: #00FFCD;
+}
+
+
